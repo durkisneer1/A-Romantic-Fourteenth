@@ -1,2 +1,3 @@
-# A-Romantic-Fourteenth
-Have a dimly lit romantic at the beachhouse on a Valentine's midnight.
+# A Romantic Fourteenth
+
+Source code for https://durkisneer.itch.io/a-romantic-fourteenth
